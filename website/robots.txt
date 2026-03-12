@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dizrul.com/sitemap.xml
